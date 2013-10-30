@@ -1,4 +1,4 @@
 Java-Notepad
 ============
 
-A portable notepad developed in java.
+A Portable Notepad, developed in java, with all the basic features.
